@@ -1,4 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Sam — but you can just call me mate!</h1>
+<h1 align="center">Hi, I’m Sam. And you are..?  
+If you’re curious about my work or have something in mind — reach out, I’m always up for a chat.</h1>
 
 <p align="center">
   <em>Backend Developer | API Architect | AI Tinkerer</em>
@@ -27,7 +28,6 @@
 - Practicing **algorithms and data structures**
 - Diving deeper into **scalable architecture**
 - Building my own **AI-powered SaaS product** — stay tuned, it’ll appear here 👀
-- Looking for a **collaboration** with a frontend developer & designer to make fun hobby websites
 
 ---
 
