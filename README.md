@@ -5,25 +5,25 @@
 <h1 align="center">If you’re curious about my work or have something in mind — reach out, I’m always up for a chat.</h1>
 
 <p align="center">
-  Backend Developer | API Architect | AI Tinkerer</em>
+  <em>Backend Developer | API Architect | AI Tinkerer</em>
 </p>
 
----
+<hr style="border: 3px solid #555; margin: 20px 0;">
 
 ### 🧑‍💻 About Me
 
-👋 I'm a backend developer focused on crafting scalable and reliable web services using Python.  
-💼 Most of my time goes into freelance projects or solo development — designing, building, and occasionally releasing my own tools.  
-📁 This GitHub started as a storage of old snippets and reusable ideas — simple, not always async or complex — more like bookmarks.  
-🆕 **Since May 2025**, I'm sharing more strong and current code, with selected repos pinned.
+👉 I'm a backend developer focused on crafting scalable and reliable web services using Python.  
+👉 Most of my time goes into freelance projects or solo development — designing, building, and occasionally releasing my own tools.  
+👉 This GitHub started as a storage of old snippets and reusable ideas — simple, not always async or complex — more like bookmarks.  
+👉 **Since May 2025**, I'm sharing more strong and current code, with selected repos pinned.
 
 ---
 
 ### 🚀 What I'm up to
 
-- Practicing **algorithms and data structures**  
-- Diving deeper into **scalable architecture**  
-- Building my own **AI-powered SaaS product** — stay tuned, it’ll appear here 👀  
+- Practicing algorithms and data structures  
+- Diving deeper into scalable architecture  
+- Building my own AI-powered SaaS product — stay tuned, it’ll appear here 👀  
 - Looking for a frontend developer and designer for hobby projects and collabs
 
 ---
