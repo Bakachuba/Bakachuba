@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I’m Sam. And you are..?  
-If you’re curious about my work or have something in mind — reach out, I’m always up for a chat.</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=435&lines=Hi,+I’m+Sam.+🎮;And+you+are..?" />
+</p>
+
+<h1 align="center">If you’re curious about my work or have something in mind — reach out, I’m always up for a chat.</h1>
 
 <p align="center">
   <em>Backend Developer | API Architect | AI Tinkerer</em>
@@ -11,7 +14,6 @@ If you’re curious about my work or have something in mind — reach out, I’m
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bakachuba/Bakachuba/output/dist/github-contribution-grid-snake-dark.svg?raw=true" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bakachuba/Bakachuba/output/dist/github-contribution-grid-snake.svg?raw=true" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Bakachuba/Bakachuba/output/dist/github-contribution-grid-snake.svg?raw=true" style="width: 100%;" />
   </picture>
 </p>
 
@@ -44,16 +46,3 @@ If you’re curious about my work or have something in mind — reach out, I’m
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=435&lines=Thanks+for+stopping+by!+🎮;Stay+curious+and+keep+building!" />
-</p>
-
----
-
-### 🤪 Fun fact
-
-I once tried to explain recursion to my cat. He just walked away. Guess some mysteries remain unsolved.
-
