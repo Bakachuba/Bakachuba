@@ -4,8 +4,9 @@
 
 <h1 align="center">If you’re curious about my work or have something in mind — reach out, I’m always up for a chat.</h1>
 
-<em>Backend Developer | API Architect | AI Tinkerer</em>
-
+<p align="center">
+  Backend Developer | API Architect | AI Tinkerer</em>
+</p>
 
 ---
 
