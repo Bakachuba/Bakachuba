@@ -8,17 +8,6 @@
   <em>Backend Developer | API Architect | AI Tinkerer</em>
 </p>
 
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bakachuba/Bakachuba/output/dist/github-contribution-grid-snake-dark.svg?raw=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bakachuba/Bakachuba/output/dist/github-contribution-grid-snake.svg?raw=true" />
-  </picture>
-</p>
-
----
-
 ### 🧑‍💻 About Me
 
 👋 I'm a backend developer focused on crafting scalable and reliable web services using Python.  
