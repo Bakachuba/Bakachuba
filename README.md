@@ -8,6 +8,8 @@
   <em>Backend Developer | API Architect | AI Tinkerer</em>
 </p>
 
+---
+
 ### 🧑‍💻 About Me
 
 👋 I'm a backend developer focused on crafting scalable and reliable web services using Python.  
