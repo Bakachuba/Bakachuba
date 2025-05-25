@@ -36,32 +36,14 @@
 
 ---
 
-### 📈 GitHub Stats
+### 🌌 Just for fun
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_title=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/master/retro-game-boy.gif" width="300" alt="gameboy" />
 </p>
 
 ---
 
-### 🤝 Let's Connect!
-
-- Got ideas or want to collaborate on something fun? Reach out!
-- I'm especially looking for:
-  - 🎨 **UI/UX Designers**
-  - 💻 **Frontend Developers**
-
----
-
-### 😂 Fun Fact
-
-> I write code like I cook:  
-> no strict recipes, just intuition, caffeine, and occasional debugging fire.
-
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+stopping+by!+🚀;Happy+coding!+👨‍💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=435&lines=Thanks+for+stopping+by!+🎮;Stay+curious+and+keep+building!" />
 </p>
