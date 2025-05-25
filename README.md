@@ -7,10 +7,10 @@ If you’re curious about my work or have something in mind — reach out, I’m
 
 ---
 
-### 🦊 Just for fun
-
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="400" alt="pixel coder" />
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="400" alt="pixel coder working at night" />
+  <br/>
+  <em>Late nights, side projects, and pixel dreams 💡</em>
 </p>
 
 ---
