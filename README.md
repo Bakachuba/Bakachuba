@@ -9,13 +9,14 @@ If you’re curious about my work or have something in mind — reach out, I’m
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bakachuba/Bakachuba/output/github-contribution-grid-snake-dark.svg?raw=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bakachuba/Bakachuba/output/github-contribution-grid-snake.svg?raw=true" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Bakachuba/Bakachuba/output/github-contribution-grid-snake.svg?raw=true" style="width: 100%;" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bakachuba/Bakachuba/output/dist/github-contribution-grid-snake-dark.svg?raw=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bakachuba/Bakachuba/output/dist/github-contribution-grid-snake.svg?raw=true" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Bakachuba/Bakachuba/output/dist/github-contribution-grid-snake.svg?raw=true" style="width: 100%;" />
   </picture>
 </p>
 
 ---
+
 ### 🧑‍💻 About Me
 
 👋 I'm a backend developer focused on crafting scalable and reliable web services using Python.  
@@ -27,9 +28,10 @@ If you’re curious about my work or have something in mind — reach out, I’m
 
 ### 🚀 What I'm up to
 
-- Practicing **algorithms and data structures**
-- Diving deeper into **scalable architecture**
-- Building my own **AI-powered SaaS product** — stay tuned, it’ll appear here 👀
+- Practicing **algorithms and data structures**  
+- Diving deeper into **scalable architecture**  
+- Building my own **AI-powered SaaS product** — stay tuned, it’ll appear here 👀  
+- Looking for a frontend developer and designer for hobby projects and collabs
 
 ---
 
@@ -48,3 +50,10 @@ If you’re curious about my work or have something in mind — reach out, I’m
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=435&lines=Thanks+for+stopping+by!+🎮;Stay+curious+and+keep+building!" />
 </p>
+
+---
+
+### 🤪 Fun fact
+
+I once tried to explain recursion to my cat. He just walked away. Guess some mysteries remain unsolved.
+
