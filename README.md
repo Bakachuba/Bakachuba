@@ -8,7 +8,7 @@
   <em>Backend Developer | API Architect | AI Tinkerer</em>
 </p>
 
-<hr style="border: 3px solid #555; margin: 20px 0;">
+
 
 ### 🧑‍💻 About Me
 
