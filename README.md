@@ -6,6 +6,13 @@
 
 ---
 
+### 🦊 Just for fun
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="400" alt="pixel coder" />
+</p>
+
+---
 ### 🧑‍💻 About Me
 
 👋 I'm a backend developer focused on crafting scalable and reliable web services using Python.  
@@ -33,31 +40,6 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-
----
-
-### 🌌 Just for fun
-
-<p align="center">
-  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400" alt="space animation" />
-</p>
-
-### 🤖 Just for fun
-
-<p align="center">
-  <img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="400" alt="neural network AI" />
-</p>
-### 💡 Just for fun
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="400" alt="pixel coder" />
-</p>
-
-### 🦊 Just for fun
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="fox coding" />
-</p>
 
 ---
 
