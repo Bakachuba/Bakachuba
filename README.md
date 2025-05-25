@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hey there 👋, I'm Sam — but you can just call me mate!</h1>
 
 <p align="center">
   <em>Backend Developer | API Architect | AI Tinkerer</em>
@@ -39,7 +39,24 @@
 ### 🌌 Just for fun
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/master/retro-game-boy.gif" width="300" alt="gameboy" />
+  <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" width="400" alt="space animation" />
+</p>
+
+### 🤖 Just for fun
+
+<p align="center">
+  <img src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="400" alt="neural network AI" />
+</p>
+### 💡 Just for fun
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="400" alt="pixel coder" />
+</p>
+
+### 🦊 Just for fun
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="fox coding" />
 </p>
 
 ---
