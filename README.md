@@ -9,9 +9,9 @@ If you’re curious about my work or have something in mind — reach out, I’m
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" style="width: 100%;" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bakachuba/Bakachuba/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bakachuba/Bakachuba/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Bakachuba/Bakachuba/output/github-contribution-grid-snake.svg" style="width: 100%;" />
   </picture>
 
 ---
