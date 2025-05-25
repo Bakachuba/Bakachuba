@@ -1,12 +1,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=435&lines=Hi,+I’m+Sam!+🎮;And+you+are...?" />
-</p>
+</p><br>
 
 <h1 align="center">If you’re curious about my work or have something in mind — reach out, I’m always up for a chat.</h1>
 
 <br><br>
-
-
 
 ### 🧑‍💻 About Me
 
@@ -14,15 +12,6 @@
 👉 Most of my time goes into freelance projects or solo development — designing, building, and occasionally releasing my own tools.  
 👉 This GitHub started as a storage of old snippets and reusable ideas — simple, not always async or complex — more like bookmarks.  
 👉 **Since May 2025**, I'm sharing more strong and current code, with selected repos pinned.
-
----
-
-### 🚀 What I'm up to
-
-- Practicing algorithms and data structures  
-- Diving deeper into scalable architecture  
-- Building my own AI-powered SaaS product — stay tuned, it’ll appear here 👀  
-- Looking for a frontend developer and designer for hobby projects and collabs
 
 ---
 
@@ -35,3 +24,12 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+---
+
+### 🚀 What I'm up to
+
+- Practicing algorithms and data structures  
+- Diving deeper into scalable architecture  
+- Building my own AI-powered SaaS product — stay tuned, it’ll appear here 👀  
+- Looking for a frontend developer and designer for hobby projects and collabs
