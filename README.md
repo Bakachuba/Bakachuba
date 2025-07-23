@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=435&lines=Hi,+I’m+Sam!+🎮;And+you+are...?" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=435&lines=Hi,+I’m+Sam!+🎮;And+you...?" />
 </p><br>
 
 <h1 align="center">If you’re curious about my work or have something in mind — reach out, I’m always up for a chat.</h1>
